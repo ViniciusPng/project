@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "casa",
+    "path": "folders/Objects/casa.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall",

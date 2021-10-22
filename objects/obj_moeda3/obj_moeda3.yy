@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "Sprite8",
+    "path": "sprites/Sprite8/Sprite8.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "casa",
-    "path": "folders/Objects/casa.yy",
+    "name": "moedas",
+    "path": "folders/Objects/moedas.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_window",
+  "name": "obj_moeda3",
   "tags": [],
   "resourceType": "GMObject",
 }
