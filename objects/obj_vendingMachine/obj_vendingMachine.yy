@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite4",
+    "path": "sprites/Sprite4/Sprite4.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -18,16 +21,18 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "moedas",
-    "path": "folders/Objects/moedas.yy",
+    "name": "Items",
+    "path": "folders/Objects/Items.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_moeda2",
+  "name": "obj_vendingMachine",
   "tags": [],
   "resourceType": "GMObject",
 }
